@@ -17,4 +17,5 @@
     : repo has multiple descriptive commit messages 
     : repo contains quality README with screenshot and deployment link
 
-Link to Deployed page: https://github.com/lgiddings03/homework1 
+Link to repository page: https://github.com/lgiddings03/homework1 
+Link
