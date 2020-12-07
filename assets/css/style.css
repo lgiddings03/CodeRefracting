@@ -14,39 +14,6 @@ body {
 p {
     font-size: 16px;
 }
-/* changed div tags to nav */
-.header {
-    padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
-    color: #ffffff;
-}
-.header h1 {
-    display: inline-block;
-    font-size: 48px;
-}
-
-.header h1 .seo {
-    color: #d9dcd6;
-}
-/* added tik marks to calibri font */
-.header {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    font-size: 20px;
-}
-
-.header nav ul {
-    list-style-type: none;
-}
-
-.header nav ul li {
-    display: inline-block;
-    margin-left: 25px;
-}
-
 
 .hero {
     height: 800px;
@@ -132,14 +99,7 @@ p {
     max-width: 150px;
 }
 /* add tik marks to all calibri fonts */
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
+
 /* removed excess spacing ( might have created this.) */
 .online-reputation-management {
     margin-bottom: 20px;
@@ -150,6 +110,13 @@ p {
     color: #ffffff;
 }
 
+.online-reputation-management img {
+    max-height: 200px;
+}
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -158,29 +125,24 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
 .social-media-marketing img {
     max-height: 200px;
 }
-
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+.search-engine-optimization img {
+    max-height: 200px;
 }
-
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -195,4 +157,36 @@ p {
 
 .footer h2 {
     font-size: 20px;
+}
+/* changed div tags to nav */
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+.header h1 .seo {
+    color: #d9dcd6;
+}
+/* added tik marks to calibri font */
+.header {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.header nav ul {
+    list-style-type: none;
+}
+
+.header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
 }
