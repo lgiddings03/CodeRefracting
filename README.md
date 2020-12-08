@@ -18,4 +18,4 @@
     : repo contains quality README with screenshot and deployment link
 
 Link to repository page: https://github.com/lgiddings03/homework1 
-Link
+Link to deployed page: https://lgiddings03.github.io/homework1/
